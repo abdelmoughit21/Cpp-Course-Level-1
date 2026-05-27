@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\NestedLoopsExercise4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{815589A6-AE2D-41BC-B0D8-A1E547B95283}|NestedLoopsExercise4\\NestedLoopsExercise4.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\NestedLoopsExercise4\\NestedLoopsExercise4\\NestedLoopsExercise4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{815589A6-AE2D-41BC-B0D8-A1E547B95283}|NestedLoopsExercise4\\NestedLoopsExercise4.vcxproj|solutionrelative:NestedLoopsExercise4\\NestedLoopsExercise4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NestedLoopsExercise4.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\NestedLoopsExercise4\\NestedLoopsExercise4\\NestedLoopsExercise4.cpp",
+              "RelativeDocumentMoniker": "NestedLoopsExercise4\\NestedLoopsExercise4.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\NestedLoopsExercise4\\NestedLoopsExercise4\\NestedLoopsExercise4.cpp",
+              "RelativeToolTip": "NestedLoopsExercise4\\NestedLoopsExercise4.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-23T11:22:51.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

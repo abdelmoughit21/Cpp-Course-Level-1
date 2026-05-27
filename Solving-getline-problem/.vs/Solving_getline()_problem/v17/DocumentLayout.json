@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\Solving_getline()_problem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7359B744-27A0-469A-BBFC-8410484E54EC}|Solving_getline()_problem\\Solving_getline()_problem.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\Solving_getline()_problem\\Solving_getline()_problem\\Solving_getline()_problem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7359B744-27A0-469A-BBFC-8410484E54EC}|Solving_getline()_problem\\Solving_getline()_problem.vcxproj|solutionrelative:Solving_getline()_problem\\Solving_getline()_problem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solving_getline()_problem.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\Solving_getline()_problem\\Solving_getline()_problem\\Solving_getline()_problem.cpp",
+              "RelativeDocumentMoniker": "Solving_getline()_problem\\Solving_getline()_problem.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\Solving_getline()_problem\\Solving_getline()_problem\\Solving_getline()_problem.cpp",
+              "RelativeToolTip": "Solving_getline()_problem\\Solving_getline()_problem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-23T14:04:10.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

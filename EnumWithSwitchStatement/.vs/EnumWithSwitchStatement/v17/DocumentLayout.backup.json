@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\EnumWithSwitchStatement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8300A6-5657-43C9-900C-08D58BAACA99}|EnumWithSwitchStatement\\EnumWithSwitchStatement.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\EnumWithSwitchStatement\\EnumWithSwitchStatement\\EnumWithSwitchStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8300A6-5657-43C9-900C-08D58BAACA99}|EnumWithSwitchStatement\\EnumWithSwitchStatement.vcxproj|solutionrelative:EnumWithSwitchStatement\\EnumWithSwitchStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnumWithSwitchStatement.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\EnumWithSwitchStatement\\EnumWithSwitchStatement\\EnumWithSwitchStatement.cpp",
+              "RelativeDocumentMoniker": "EnumWithSwitchStatement\\EnumWithSwitchStatement.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\EnumWithSwitchStatement\\EnumWithSwitchStatement\\EnumWithSwitchStatement.cpp",
+              "RelativeToolTip": "EnumWithSwitchStatement\\EnumWithSwitchStatement.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-23T12:20:25.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

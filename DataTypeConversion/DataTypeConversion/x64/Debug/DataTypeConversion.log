@@ -1,0 +1,3 @@
+﻿  DataTypeConversion.cpp
+C:\Users\HP\Documents\Learning c++\DataTypeConversion\DataTypeConversion\DataTypeConversion.cpp(24,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  DataTypeConversion.vcxproj -> C:\Users\HP\Documents\Learning c++\DataTypeConversion\x64\Debug\DataTypeConversion.exe

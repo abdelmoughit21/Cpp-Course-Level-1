@@ -1,0 +1,4 @@
+﻿  FunctionsParameters.cpp
+C:\Users\HP\Documents\Learning c++\FunctionsParameters\FunctionsParameters\FunctionsParameters.cpp(13,9): warning C4101: 'Num1': unreferenced local variable
+C:\Users\HP\Documents\Learning c++\FunctionsParameters\FunctionsParameters\FunctionsParameters.cpp(13,15): warning C4101: 'Num2': unreferenced local variable
+  FunctionsParameters.vcxproj -> C:\Users\HP\Documents\Learning c++\FunctionsParameters\x64\Debug\FunctionsParameters.exe
