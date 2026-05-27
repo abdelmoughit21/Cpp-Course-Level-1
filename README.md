@@ -76,6 +76,62 @@ This course is carefully structured to be gradual and solid:
 📌 This course is about solid programming, built on thinking.
 
 ---
+### 📂 Curriculum & Exercise Index
+
+<details>
+<summary><b>🟢 View All 38 Exercises</b> (Click to Expand)</summary>
+
+#### Foundations
+- [Variables](./Variables)
+- [Variable Scope](./VariableScope)
+- [Data Type Conversion](./DataTypeConversion)
+- [Data Type Sizes and Ranges](./DataTypesSizesAndRanges)
+- [Solving Getline Problem](./Solving-getline-problem)
+- [Strings](./String)
+
+#### Operators
+- [Arithmetic Operations](./ArithmeticOperation)
+- [Assignment Operators](./AssignmentOperators)
+- [Relational Operators](./RelationalOperators)
+- [Logical Operators](./LogicalOperators)
+- [Increment & Decrement](./Increment-DecrementOperator)
+- [Postfix vs Prefix](./PostfixVsPrefix)
+
+#### Control Flow
+- [Conditional Else-If](./ConditionalElseIfStatement)
+- [Switch Case](./SwitchCase)
+- [While Loop](./WhileLoop)
+- [Do-While Loop](./DoWhileLoop)
+- [For Loops](./ForLoops)
+- [Break Statement](./BreakStatement)
+- [Continue Statement](./ContinueStatement)
+
+#### Functions
+- [Functions Basics](./Functions)
+- [Parameters](./FunctionsParameters)
+- [Function vs Procedure](./FunctionVsProcedure)
+- [ByVal vs ByRef](./ByVal-VS-ByRef)
+- [Math Functions](./MathFunctions)
+
+#### Advanced Structs & Enums
+- [Enum](./Enum)
+- [Enum with Switch](./EnumWithSwitchStatement)
+- [Structure](./Structure)
+- [Arrays with Functions](./ArraysWithFunctions)
+- [Structures and Functions](./StructuresAndFunctions)
+- [Nested Structures and Enums](./NestedStructuresAndEnums)
+- [Nested Functions with Enums](./NestedFunctionsWithEnums)
+
+#### Nested Logic Practice
+- [For Loops & Arrays & Structures](./ForLoops%26Arrays%26Structures)
+- [Nested For Loop Ex 1](./NestedForLoopsExercice1)
+- [Nested For Loop Ex 3](./NestedForLoopsExercice3)
+- [Nested For Loop Ex 6](./NestedForLoopsExercice6)
+- [Nested Loop Ex 2](./NestedLoopsExercice2)
+- [Nested Loop Ex 4](./NestedLoopsExercise4)
+- [Nested Loop Ex 5](./NestedLoopsExercise5)
+
+</details>
 
 ## 🎯 Final Outcome
 
